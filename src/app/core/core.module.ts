@@ -5,6 +5,5 @@ import { Identity } from './identity';
 @NgModule({
   imports: [CommonModule],
   declarations: [Identity],
-  exports: [Identity],
 })
 export class CoreModule {}
