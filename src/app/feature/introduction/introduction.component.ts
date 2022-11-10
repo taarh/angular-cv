@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Identity } from 'src/app/core/identity';
+import { Identity } from '../models/identity';
 
 @Component({
   selector: 'app-introduction',
